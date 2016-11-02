@@ -1,0 +1,19 @@
+{
+  "name": "protractor_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Protractor",
+    "Function",
+    "testing"
+  ],
+  "author": "Sadanand Mandal",
+  "license": "ISC"
+}
